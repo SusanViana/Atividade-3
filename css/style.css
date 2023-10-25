@@ -1,0 +1,16 @@
+body{
+
+    background-image: url(../img/_c45f16ed-8f8d-4cce-a14e-25d6936990ee.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center center ;   
+}
+
+button{
+
+    display: block;
+    width: 370px;
+    height: 55px;
+   
+    
+}
